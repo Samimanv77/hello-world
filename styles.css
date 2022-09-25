@@ -6,8 +6,9 @@ h1 {
   font-size: 35px;
 }
  p {
-  color: darkblue;
+  background-color: darkblue;
    font-size: 16px;
+   font-color: lavender;
 }
    
             

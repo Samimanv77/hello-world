@@ -1,3 +1,7 @@
 body {
-background-color: Ivory;
+background-color: ivory;
+}
+h1 {
+  color: gray;
+  font-size: 35px;
 }
